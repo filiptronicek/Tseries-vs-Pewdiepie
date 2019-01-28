@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+
+
+body {
+    font-family: "Roboto", Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+}
+.intro-text{
+  padding: 100px;
+}
+h3 {
+  font-size: 24px;
+}
+ .diff, .subs {
+     font-size: 40px;
+ }
+ #design a{
+	text-decoration: none;
+	color: black;
+	position: fixed;
+	right: 10px;
+	bottom: 10px;
+}
